@@ -37,4 +37,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lilofthea&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lilofthea&" alt="lilofthea" /></p>
