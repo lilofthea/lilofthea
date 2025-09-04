@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MCPs.**
 
-- 🌱 I’m currently learning about **MCO and AI agents.**
+- 🌱 I’m currently learning about **MCP and AI agents.**
 
 - 💬 Ask me about **RAG, semantic search and model creation.**
 
