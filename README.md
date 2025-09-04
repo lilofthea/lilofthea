@@ -34,6 +34,6 @@
 ### 📊 GitHub Stats  
 <p align="center" style="background-color:#0d1117; padding:15px; border-radius:12px;">
   <img src="https://github-readme-stats.vercel.app/api?username=lilofthea&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lilofthea&theme=tokyonight&hide_border=true" height="180"/>
+  
 </p>
 
