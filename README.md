@@ -1,4 +1,4 @@
-<h1 align="center">🌸 Hi, I'm <span style="color:#FF69B4;">Aymina</span> 👋</h1>
+<h1 align="center"> Hi, I'm <span style="color:#FF69B4;">Aymina</span> 👋</h1>
 <h3 align="center">✨ AI Engineer • NLP & Agentic AI Enthusiast ✨</h3>
 
 <p align="center">
