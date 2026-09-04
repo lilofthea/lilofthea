@@ -1,28 +1,22 @@
 <h1 align="center"> Hi, I'm <span style="color:#00BFFF;">Aymina</span> 👋</h1>
 <h3 align="center">AI Engineer • NLP & Agentic AI Enthusiast</h3>
 
+<div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymina-yilik/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayminayilik@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://lilofthea.github.io/)
 ![Profile Views](https://komarev.com/ghpvc/?username=harivilasp&style=for-the-badge&color=blueviolet)
+  
+</div>
 
----
+### 💡 About Me 
+Currently AI Engineer @Havelsan working on production level AI systems
+- 🧠 **Conversational & Agentic AI** — LLM-powered agents, multi-turn dialogue systems, tool-using pipelines on AWS
+- 🔗 **LLM Tooling & RAG** — retrieval-augmented generation, prompt engineering, embeddings, vector search
+- ⚙️ **Distributed Systems** — high-throughput microservices, event-driven architectures, low-latency pipelines
+- 🌱 **Always building** — LangChain, LangGraph, OpenAI APIs, AWS Bedrock, and emerging agentic frameworks
 
-### 💡 About Me  
-- 🔭 Currently building with **Model Context Protocols (MCPs)** & **AI agents**  
-- 🌱 Exploring **RAG, semantic search, and scalable AI pipelines**  
-- 💬 Let’s talk about **LLMs, embeddings & production-ready AI**  
-
----
-
-### 🌍 Connect With Me  
-<p align="center">
-<a href="https://www.linkedin.com/in/aymina-yilik/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</p>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -53,9 +47,7 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center" style="background-color:#0d1117; padding:15px; border-radius:12px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=lilofthea&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
   
 </p>
 
